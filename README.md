@@ -1,4 +1,4 @@
-# Nexus | Interactive Analytics Admin Dashboard
+# Nexus — Interactive Analytics Admin Dashboard
 
 Nexus is a state-of-the-art, high-fidelity administrative panel built using **React.js (Vite)**, **Tailwind CSS v4**, and **Framer Motion**. Styled with a premium dark-mode aesthetic inspired by Stripe, Notion Analytics, and Linear, Nexus provides a unified, responsive console for managing SaaS growth trends, client profiles, and ledger analysis.
 
